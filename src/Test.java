@@ -6,12 +6,7 @@ public class Test {
 
 			System.out.println("hello world");
 			System.out.println("hello world01");
-			System.out.println("hello world02");
-			System.out.println("hello world03");
-		System.out.println("hello world05");
-		System.out.println("hello world052");
-		System.out.println("hello world053");
-		System.out.println("hello world0551");
+			System.out.println("hello world02"); 
 	}
 
 }
