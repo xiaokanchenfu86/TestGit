@@ -5,5 +5,11 @@ public class Test1 {
 		// TODO Auto-generated method stub
  		System.out.println("hello world12"); 
 	}
+	
+	
+	public static int add(int a,int b)
+	{
+			return a+b;
+	}
 
 }
