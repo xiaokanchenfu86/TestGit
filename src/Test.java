@@ -4,10 +4,9 @@ public class Test {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
- 			System.out.println("hello world3"); 
- 			System.out.println("hello world4"); 
- 			System.out.println("hello world5");
-			 System.out.println("hello world6");
+
+		System.out.println("dev  hello world05");
+
 	}
 
 }
